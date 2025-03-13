@@ -50,6 +50,9 @@ By integrating inventory, sales, and employee management, this database provides
 <img width="900" alt="Screenshot 2025-03-13 at 12 20 39 PM" src="https://github.com/user-attachments/assets/b33d44a1-c8c7-43f5-880e-77b2926b1a32" />
 <img width="900" alt="Screenshot 2025-03-13 at 12 20 50 PM" src="https://github.com/user-attachments/assets/90d96c14-706e-4d7e-98c9-3f65ccdbc981" />
 <img width="900" alt="Screenshot 2025-03-13 at 12 21 05 PM" src="https://github.com/user-attachments/assets/f8dc6c0c-543f-46c5-b660-ed8cfe772f25" />
+<img width="900" alt="Screenshot 2025-03-13 at 12 23 04 PM" src="https://github.com/user-attachments/assets/b37241b5-5a6b-4382-91ed-12f8ffc8e35d" />
+<img width="900" alt="Screenshot 2025-03-13 at 12 23 12 PM" src="https://github.com/user-attachments/assets/4f63523c-ec80-4cac-a3c6-45fa87eab643" />
+
 
 
 
