@@ -12,7 +12,7 @@ A brief description of what this project does and who it's for
 
 ## Team Members
 
-- Chandler Allmond @chandlerallmond
+- Chandler Allmond @ chandlerallmond
 - Nick Barton @nicholasbarton1
 - Manav Kamdar
 - Vincent Sengaphone @sengaphone
