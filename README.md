@@ -1,11 +1,5 @@
 # MIST4610-Project1-Group7
 
-
-# Project Title
-
-A brief description of what this project does and who it's for
-
-
 ## Team Name
 
 61608 Group 7
@@ -44,7 +38,6 @@ By integrating inventory, sales, and employee management, this database provides
 
 <img width="900" alt="Screenshot 2025-03-13 at 12 19 05 PM" src="https://github.com/user-attachments/assets/c6c8cd46-78a9-4456-b608-b9e2f40262f3" />
 
-
 ## Data Dictionary
 <img width="900" alt="Screenshot 2025-03-13 at 12 20 06 PM" src="https://github.com/user-attachments/assets/dc9f1a92-b577-40d0-bfab-adac8ece3084" />
 <img width="900" alt="Screenshot 2025-03-13 at 12 20 22 PM" src="https://github.com/user-attachments/assets/77e83dca-8f99-437c-a9ae-e250dee4787d" />
@@ -53,9 +46,6 @@ By integrating inventory, sales, and employee management, this database provides
 <img width="900" alt="Screenshot 2025-03-13 at 12 21 05 PM" src="https://github.com/user-attachments/assets/f8dc6c0c-543f-46c5-b660-ed8cfe772f25" />
 <img width="900" alt="Screenshot 2025-03-13 at 12 23 04 PM" src="https://github.com/user-attachments/assets/b37241b5-5a6b-4382-91ed-12f8ffc8e35d" />
 <img width="900" alt="Screenshot 2025-03-13 at 12 23 12 PM" src="https://github.com/user-attachments/assets/4f63523c-ec80-4cac-a3c6-45fa87eab643" />
-
-
-
 
 ## Queries
 
