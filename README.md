@@ -12,11 +12,12 @@ A brief description of what this project does and who it's for
 
 ## Team Members
 
-- Chandler Allmond @chandlerallmond
-- Nick Barton @nicholasbarton1
-- Manav Kamdar
-- Vincent Sengaphone @sengaphone
-- Landon Wilson @landonnn0
+- Allmond, Chandler [@Chandler Allmond](https://github.com/chandlerallmond)
+- Barton, Nick [@Nick Barton](https://github.com/nicholasbarton1)
+- Manav Kamdar  <!-- No handle provided -->
+- Sengaphone, Vincent [@Vincent Sengaphone](https://github.com/sengaphone)
+- Wilson, Landon [@Landon Wilson](https://github.com/landonnn0)
+
 ## Problem Description
 
 Retail technology businesses, such as Best Buy, face challenges in efficiently managing inventory, sales transactions, and product categorization. Without an organized database system, these businesses may encounter difficulties such as:
@@ -57,3 +58,4 @@ By integrating inventory, sales, and employee management, this database provides
 
 
 ## Queries
+
