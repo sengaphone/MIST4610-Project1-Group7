@@ -41,5 +41,8 @@ The sales transaction process is handled through the sales_transaction and sales
 
 By integrating inventory, sales, and employee management, this database provides businesses with real-time insights into product performance, stock availability, and financial transactions. The structured relationships between tables allow for streamlined data retrieval, enabling managers to make data-driven decisions regarding restocking, sales strategies, and employee performance evaluations. This system ultimately helps improve operational efficiency, profitability, and customer satisfaction by ensuring that products are always available and transactions are accurately recorded.
 
+<img width="630" alt="Screenshot 2025-03-13 at 12 19 05 PM" src="https://github.com/user-attachments/assets/c6c8cd46-78a9-4456-b608-b9e2f40262f3" />
+
+
 ## Data Dictionary
 ## Queries
